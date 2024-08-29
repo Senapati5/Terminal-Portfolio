@@ -1,15 +1,15 @@
 {
-  "name": "sulu",
+  "name": "senapati",
   "version": "2.0.2",
   "description": "This is a Terminal Portfolio made by me using JavaScript",
   "main": "index.js",
   "bin": {
-    "sulu": "./index.js"
+    "senapati": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sulagna Mahato",
+  "author": "Senapati Arpan",
   "license": "MIT",
   "dependencies": {
     "cli-boxes": "^4.0.0",
