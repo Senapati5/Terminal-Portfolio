@@ -10,13 +10,13 @@ This is a terminal portfolio made with vanilla JavaScript and the used packages 
 ## To Run This
 
 ```bash
-npx sulu
+npx senapati
 ```
 
 ### Local installation
 
 ```bash
-git clone https://github.com/SulagnaMahato/Terminal-Portfolio.git
+git clone https://github.com/Senapati5/Terminal-Portfolio.git
 ```
 
 ```bash
