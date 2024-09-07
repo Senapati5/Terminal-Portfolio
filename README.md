@@ -51,8 +51,8 @@ npm publish
 Distributed under the MIT License .
 
 ### Authors
-
-- **Sanjoy Paul**
-- **Harajit Das**
-- **Sulagna Mahato**
-- **Senapati Arpan**
+- **[Sanjoy Paul](https://github.com/SANJOY-PAUL-0981)**
+- **[Harajit Das](https://github.com/HARAJIT05)**
+- **[Sulagna Mahato](https://github.com/SulagnaMahato)**
+- **[Arpan Senapati](https://github.com/senapati5)**
+---
